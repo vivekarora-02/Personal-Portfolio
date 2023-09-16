@@ -6,9 +6,9 @@
 
 # Demo :movie_camera:
 
-![](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/yg7pbgnih9nziulfu3u9.gif)
+![](https://github.com/vivekarora-02/Personal-Portfolio/blob/master/demo.gif)
 
-## View live demo [here](https://abusaid.netlify.app/).
+## View live demo [here](https://vivekarora.vercel.app/).
 
 ---
 
